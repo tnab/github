@@ -1,5 +1,7 @@
 connection: "thelook"
 
+# testing from github
+
 # include all the views
 include: "*.view"
 
